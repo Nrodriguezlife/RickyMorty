@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a304c691.css",
+    "main.js": "/static/js/main.3641b900.js",
+    "static/media/pexels-nicole-avagliano-2706654.jpg": "/static/media/pexels-nicole-avagliano-2706654.53fc5229d14e19a9d002.jpg",
+    "index.html": "/index.html",
+    "main.a304c691.css.map": "/static/css/main.a304c691.css.map",
+    "main.3641b900.js.map": "/static/js/main.3641b900.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a304c691.css",
+    "static/js/main.3641b900.js"
+  ]
+}
